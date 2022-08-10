@@ -1,1 +1,1 @@
-# maximus-portfolio
+# maximus-portfolio For this project, I started to make my professional portfolio. I built up a very pretty website and did my best to make it visually appealing but also funtional. Im most proud of the bottom section for the contact me. Its a front end code that takes in someones name, email, and their message for me, and it emails all that info to my real personal email! very happy with its progress.
